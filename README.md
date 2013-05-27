@@ -2,6 +2,7 @@ A0B36PR2
 ========
 
 Semestralni prace do predmetu A0B36PR2 2012/2013 letni s.
+in: src/Vlak
 
 Autor: Miroslav Kopecek
 Jazyk: Java
