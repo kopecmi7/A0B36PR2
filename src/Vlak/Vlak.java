@@ -125,7 +125,6 @@ public class Vlak extends JFrame implements ActionListener {
                     this.reloadStrings(); }
                 this.status.won=false; 
             }
-            //gameFrame.close();
             this.setVisible(true); }
     }
 }
