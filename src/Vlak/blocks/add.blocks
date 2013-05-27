@@ -1,0 +1,15 @@
+TestMap a01
+9 1
+9 ./textures/
+0 concreteBrick.png
+0 lightBrick.png
+0 darkBrick.png
+1 tender5.png
+1 apple32.png
+1 tender3.png
+1 tender2.png
+1 tender.png
+3 magiceye.png exit.png
+1 2 3 4 5 6 7 8 9
+
+DOOR: 3, moveable: 1 train: 2, solid: 0 none:4type:: 1 nonetype :4
